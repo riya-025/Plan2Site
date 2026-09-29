@@ -5,7 +5,7 @@
 SIH Problem Statement: **SIH26122 — Intelligent Data Capture & Schedule-Linking Layer for Infrastructure Project Management: Real-Time Actual Progress Tracking**  
 Theme: **Smart Automation**  
 Category: **Software**  
-Team: **CodeNova**
+Team: **CodeNova7**
 
 ---
 
